@@ -1,18 +1,19 @@
-# Geo Python Starter
+# 🗺️ GeoPandas Kenya Starter
 
-A tiny, well-documented GIS starter in Python using **GeoPandas** and **Matplotlib**.  
-Goal: show a clean workflow and cartographic best practices in a few short notebooks.
+A simple geospatial project in Python using **GeoPandas** and **Matplotlib**.  
+This notebook visualizes the **map of Kenya** using publicly available data from [Natural Earth](https://www.naturalearthdata.com/).
 
-## What’s inside (soon)
-- `01_plot_kenya.ipynb` – load Natural Earth data, filter Kenya, make a simple map.
-- `requirements.txt` – minimal deps for reproducibility.
+---
 
-## Why this repo?
-- Quick, portfolio-friendly examples for an MSc Cartography student.
-- Clean structure + clear README to impress reviewers and recruiters.
+## 🌍 Overview
 
-## Data
-- Natural Earth sample dataset via `geopandas.datasets`.
+This repository demonstrates a clean, beginner-friendly workflow for making maps in Python.
 
-## License
-MIT
+### 📚 Tools Used
+- **GeoPandas** – for vector spatial data handling  
+- **Matplotlib** – for map visualization  
+- **Google Colab** – for cloud-based execution
+
+---
+
+## 📁 Project Structure
